@@ -16,7 +16,7 @@ This project is to automate the API tests against the Zippopotam API using  Rest
 Property file path : /src/test/resources/properties/Configuration.properties   
 Test Case path : /src/test/java/zippopotam/com/  
 Report path : /test-output/testReport.html 
-Run command : mvn clean test 
+Run command : mvn clean test  
 Github path : https://github.com/joepraju/tasks/tree/main/demoqa
 
   
