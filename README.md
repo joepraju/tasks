@@ -6,7 +6,8 @@ Feature file path : /features
 Test case path : /src/test/java/steps/ 
 Property file path : /src/test/resources/properties/Configuration.properties  
 Report path : /target/HTMLReports/index.html  
-Run command : mvn clean test        
+Run command : mvn clean test  
+Github path : https://github.com/joepraju/tasks/tree/main/RestAssuredAPITesting
 
 
 
@@ -16,5 +17,6 @@ Property file path : /src/test/resources/properties/Configuration.properties
 Test Case path : /src/test/java/zippopotam/com/  
 Report path : /test-output/testReport.html 
 Run command : mvn clean test 
+Github path : https://github.com/joepraju/tasks/tree/main/demoqa
 
   
