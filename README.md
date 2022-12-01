@@ -10,7 +10,7 @@ Run command : mvn clean test
 
 
 
-**Test 2:**  
+**Task 2:**  
 This project is to automate the API tests against the Zippopotam API using  RestAssured, Selenium, Java. Run /testng.xml or run "mvn clean test" from the terminal.  
 Property file path : /src/test/resources/properties/Configuration.properties   
 Test Case path : /src/test/java/zippopotam/com/  
